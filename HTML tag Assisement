@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>table assignment</title>
+    </head>
+<body>
+    <table border="3">
+        <thead>
+            <th>Tag name</th>
+                <th>Description</th>
+                <th>syntax</th>
+        </body>
+</html>
